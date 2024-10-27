@@ -10,7 +10,7 @@
 <body>
     <header>
         <h1>Welcome to My Portfolio</h1>
-        <p>Hi, I'm [Your Name], a [Your Profession].</p>
+        <p>Hi, I'm , a [Your Profession].</p>
     </header>
     <section>
         <h2>About Me</h2>
