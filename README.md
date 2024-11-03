@@ -30,7 +30,7 @@
     <section>
         <h2><b>Socials:</b></h2>
         <ul>
-            <li><a href="www.linkedin.com/in/shreya-singh4b67">linkedin</a>
+            <li><a href="https://www.linkedin.com/in/shreya-singh4b67/">linkedin</a>
             <li><a href="https://substack.com/@shreyasingh456876?utm_source=user-menu">substack</a></li>
             <li><a href="https://www.geeksforgeeks.org/user/shreyasingdyq3/">geeksforgeeks</a></li>
             <li><a href="https://www.quora.com/profile/Shreya-Singh-7287">quora</a></li>
