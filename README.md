@@ -30,14 +30,14 @@
     <section>
         <h2><b>Socials:</b></h2>
         <ul>
-            <li><a href="https://www.linkedin.com/in/shreya-singh4b67/">linkedin</a>
-            <li><a href="https://substack.com/@shreyasingh456876?utm_source=user-menu">substack</a></li>
-            <li><a href="https://www.geeksforgeeks.org/user/shreyasingdyq3/">geeksforgeeks</a></li>
-            <li><a href="https://www.quora.com/profile/Shreya-Singh-7287">quora</a></li>
+            <li><a href="https://www.linkedin.com/in/shreya-singh4b67/"></a>
+            <li><a href="https://substack.com/@shreyasingh456876?utm_source=user-menu"></a></li>
+            <li><a href="https://www.geeksforgeeks.org/user/shreyasingdyq3/"></a></li>
+            <li><a href="https://www.quora.com/profile/Shreya-Singh-7287"></a></li>
             <li><a href="https://github.com/Shreya-singh-25">github</a></li>
-            <li><a href="https://www.hackerrank.com/profile/25shreya1006">hackerrank</a></li>
-            <li><a href="https://www.hackerearth.com/@25shreya1006/">hackerearth</a></li>
-            <li><a href="https://www.figma.com/@shreyasingh15">figma</a></li>
+            <li><a href="https://www.hackerrank.com/profile/25shreya1006"></a></li>
+            <li><a href="https://www.hackerearth.com/@25shreya1006/"></a></li>
+            <li><a href="https://www.figma.com/@shreyasingh15"></a></li>
                 </li>
 
 </body>
